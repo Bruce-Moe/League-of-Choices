@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11590950a8340ae4d9d7f9fd748dbce0, type: 3}
+  m_Name: A3. Laning Phase
+  m_EditorClassIdentifier: 
+  storyText: "You decide that the best way to carry your team is to stomp your lane
+    opponent and snowball, so you run ignite. \r\n\r\nThe laning phase begins, and
+    you must decide how you're going to play the early game. Will you\r\n\r\n1. Hard
+    push the lane and look for a fight off your level 3 powerspike\r\n\r\n2. Play
+    back and let the Renekton push into you"
+  nextStates:
+  - {fileID: 11400000, guid: 69113e894956af544b583886545d39ff, type: 2}
+  - {fileID: 11400000, guid: 91bdc65c442ca734a9c7b122d59c8763, type: 2}

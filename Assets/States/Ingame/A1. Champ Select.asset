@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11590950a8340ae4d9d7f9fd748dbce0, type: 3}
+  m_Name: A1. Champ Select
+  m_EditorClassIdentifier: 
+  storyText: "The queue pops, and before you know it you're in champ select for another
+    game of League of Legends. Why you're still playing this terrible game after
+    all these years of toxicity and inting remains a mystery, but you brace yourself
+    for the coinflip teammates and clown fiesta tiltfest that is sure to ensue in
+    the following 20-40 minutes. Oh, and by the way, you're playing toplane and the
+    enemy toplaner has already locked in Renekton.\r\n\r\nDo you choose: \r\n\r\n1.
+    Riven\r\n\r\n2. Volibear"
+  nextStates:
+  - {fileID: 11400000, guid: 27bf892a76791554da47b787fab0a8a1, type: 2}
+  - {fileID: 11400000, guid: 89372c0558b6df848a254c677eff0e05, type: 2}

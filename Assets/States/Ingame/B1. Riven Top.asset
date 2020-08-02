@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11590950a8340ae4d9d7f9fd748dbce0, type: 3}
+  m_Name: B1. Riven Top
+  m_EditorClassIdentifier: 
+  storyText: "Even though the enemy has locked in Renekton, which is known to be
+    a hard counter to Riven, you decide to embrace your inner BoxBox and pick Riven
+    anyway. Having accumulated over 2 million mastery points on Riven as well as
+    the Battle Bunny Riven skin, you're confident in your ability to stomp lane and
+    1 v 9 the game. And, if you int instead, you can always blame your jungler. \r\n\r\nNext,
+    you need to pick your summoner spells. Will you run flash and \r\n\r\n1. Teleport\r\n\r\n2.
+    Ignite"
+  nextStates:
+  - {fileID: 11400000, guid: df4bf7f08e3715346a4f11184679d516, type: 2}
+  - {fileID: 11400000, guid: a4356eaa1128ac440bc27668f9ca86a4, type: 2}

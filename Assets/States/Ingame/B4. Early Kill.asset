@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11590950a8340ae4d9d7f9fd748dbce0, type: 3}
+  m_Name: B4. Early Kill
+  m_EditorClassIdentifier: 
+  storyText: "The All-in level 1 was actually the right choice, as fighting before
+    Renekton built up fury and using your ignite led to an easy level 1 solo kill.
+    Now, you are substantially ahead and ready to snowball your lead. \r\n\r\n1.
+    Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 1ccd58bcce2550d4d85ba6af501b6db6, type: 2}

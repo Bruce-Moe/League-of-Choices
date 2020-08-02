@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11590950a8340ae4d9d7f9fd748dbce0, type: 3}
+  m_Name: B7. Renekton too OP
+  m_EditorClassIdentifier: 
+  storyText: "Unfortunately, Renekton is too powerful and on top of that, the enemy
+    jungler decides to camp your lane while your jungler afk farms as Graves but
+    then proceeds to still int. You get killed after the enemy Xin Zhao level 2 ganks
+    you, and then get doved repeatedly after. Needless to say, the game ends in a
+    crushing defeat. Oh well, maybe next time you'll actually have a jungler with
+    a brain. \r\n\r\n1. Play again\r\n\r\n2. Ragequit and play CSGO"
+  nextStates:
+  - {fileID: 11400000, guid: bac0ba222e4b30a4ab39b9c1f2498291, type: 2}
+  - {fileID: 11400000, guid: 10db2dd2d29e50e47b988282dd0a58b2, type: 2}

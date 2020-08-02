@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11590950a8340ae4d9d7f9fd748dbce0, type: 3}
+  m_Name: A2. Volibear Top
+  m_EditorClassIdentifier: 
+  storyText: "After seeing the enemy Renekton pick, you do a quick op.gg search on
+    Renekton counters and find that Volibear is strong in the current meta and is
+    a good pick against Renekton. Good for you. \r\n\r\nNext, you need to pick your
+    summoner spells. Will you run flash and \r\n\r\n1. Ignite\r\n\r\n2. Teleport"
+  nextStates:
+  - {fileID: 11400000, guid: 470b6fea290b9364dacca93f03722287, type: 2}
+  - {fileID: 11400000, guid: 3bb9661de80ca054abccdb1672eab588, type: 2}

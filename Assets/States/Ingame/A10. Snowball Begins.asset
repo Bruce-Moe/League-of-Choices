@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11590950a8340ae4d9d7f9fd748dbce0, type: 3}
+  m_Name: A10. Snowball Begins
+  m_EditorClassIdentifier: 
+  storyText: 'Knowing that you have ignite and can beat Renekton early, you decide
+    to shove the wave and all-in as soon as you hit level 3, since Renekton is still
+    level 2. Thanks to how OP your champ is, you snag an easy kill on the Renekton
+    and begin to assert your top lane dominance.
+
+    
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: 235bdc1e44bbd954396e25c7d0a519e5, type: 2}

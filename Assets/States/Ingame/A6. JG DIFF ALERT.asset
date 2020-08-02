@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11590950a8340ae4d9d7f9fd748dbce0, type: 3}
+  m_Name: A6. JG DIFF ALERT
+  m_EditorClassIdentifier: 
+  storyText: "Even though you have ignite, you allow Renekton to shove you in early
+    and get lane prio. Unfortunately, this leads to the enemy Master Yi jungle invading
+    your jungler and getting a kill and then getting double scuttle. To top things
+    off, your jungler starts flaming you in chat and spam pinging you.\r\n\r\nYou're
+    pretty tilted but you continue to play, believing the game to still be winnable.
+    \r\n\r\n1. Mute your jungler and play on"
+  nextStates:
+  - {fileID: 11400000, guid: f4e7dbf968638b04896db12c56591e56, type: 2}

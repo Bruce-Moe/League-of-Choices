@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11590950a8340ae4d9d7f9fd748dbce0, type: 3}
+  m_Name: B5. RIVEN GOD
+  m_EditorClassIdentifier: 
+  storyText: 'After getting an early lead on Riven, you begin to snowball and you
+    get a few more solo kills on Renekton before laning ends. You are then able to
+    use this lead to carry teamfights and lead your team to victory, imitating the
+    likes of Adrian and Viper as you show off the power of Riven.
+
+    
+
+    Congratulations,
+    you won!
+
+    
+
+    1. Play again
+
+    2. Quit while you''re ahead'
+  nextStates:
+  - {fileID: 11400000, guid: bac0ba222e4b30a4ab39b9c1f2498291, type: 2}
+  - {fileID: 11400000, guid: 10db2dd2d29e50e47b988282dd0a58b2, type: 2}
